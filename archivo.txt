@@ -1,1 +1,3 @@
-primer archivo para repositorio
+primer archivo para repositorio.
+Modificacion para enviar commit 2.
+Sigo escribiendo...
